@@ -437,10 +437,10 @@
 
     <script>
         // Movie data embedded from CSV
+        let moviesData = []
         let data2 = fetch('https://raw.githubusercontent.com/karthiknayakb/media_dashboard/refs/heads/master/data.json')
-  .then(res => res.json())
-        // console.log(data2)
-        let moviesData = data2
+  .then(res => res.json()).then(data => {moviesData = data})
+        
             let p = [
   {
     "Original Title": "Batman - Animated Series",
