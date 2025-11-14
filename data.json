@@ -96,7 +96,8 @@
     "IMDb ID": "tt0113799",
     "IMDb URL": "https://www.imdb.com/title/tt0113799/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_SX300.jpg"
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
   },
   {
     "Original Title": "Nayakan (1987)",
@@ -105,7 +106,8 @@
     "IMDb ID": "tt0093603",
     "IMDb URL": "https://www.imdb.com/title/tt0093603/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDgyNDFhMTgtM2Y5YS00MTczLWJmODktNTAzZGIyYWNjYmFjXkEyXkFqcGc@._V1_SX300.jpg"
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDgyNDFhMTgtM2Y5YS00MTczLWJmODktNTAzZGIyYWNjYmFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
   },
   {
     "Original Title": "Perfect Blue (1997)",
@@ -114,7 +116,8 @@
     "IMDb ID": "tt0156887",
     "IMDb URL": "https://www.imdb.com/title/tt0156887/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_SX300.jpg"
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
   },
   {
     "Original Title": "Ship of Theseus (2012)",
@@ -123,7 +126,8 @@
     "IMDb ID": "tt1773764",
     "IMDb URL": "https://www.imdb.com/title/tt1773764/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_SX300.jpg"
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_SX300.jpg",
+    "Status": "found"
   },
   {
     "Original Title": "Kantara: A Legend - Chapter 1 (2025)",
@@ -132,8 +136,9 @@
     "IMDb ID": "tt26439764",
     "IMDb URL": "https://www.imdb.com/title/tt26439764/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_SX300.jpg"
-  }
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
   {
     "Original Title": "Mahavatar Narsimha (2025)",
     "Searched Title": "Mahavata Narsimha",
@@ -141,7 +146,8 @@
     "IMDb ID": "tt34365591",
     "IMDb URL": "https://www.imdb.com/title/tt34365591/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTRkODNhYzYtZGRhNi00MTg4LWI5MmYtN2MyZTQ5MjE2YzMyXkEyXkFqcGc@._V1_SX300.jpg"
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTRkODNhYzYtZGRhNi00MTg4LWI5MmYtN2MyZTQ5MjE2YzMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
   },
   {
     "Original Title": "Mata (2006)",
@@ -150,7 +156,8 @@
     "IMDb ID": "tt3004588",
     "IMDb URL": "https://www.imdb.com/title/tt3004588/",
     "Type": "movie",
-    "Poster URL": "https://m.media-amazon.com/images/M/MV5BOGY4ZGE3ZWMtZTE5NC00YWViLTgwYzItODExYzExZDIxNjc5XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_SX300.jpg"  /* No reliable full-resolution poster link found via Wikipedia/Wikimedia */
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BOGY4ZGE3ZWMtZTE5NC00YWViLTgwYzItODExYzExZDIxNjc5XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_SX300.jpg",
+    "Status": "found"
   },
   {
     "Original Title": "Pulp Fiction (1994)",
