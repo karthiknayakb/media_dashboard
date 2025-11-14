@@ -1,4 +1,157 @@
 [
+    {
+    "Original Title": "Back to the future - Triology",
+    "Searched Title": "Back to the future - Triology",
+    "Year": "1985",
+    "IMDb ID": "tt0088763",
+    "IMDb URL": "https://www.imdb.com/title/tt0088763/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Gangs of Wasseypur (1,2)",
+    "Searched Title": "Gangs of Wasseypur",
+    "Year": "2012",
+    "IMDb ID": "tt1954470",
+    "IMDb URL": "https://www.imdb.com/title/tt1954470/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "The Time Machine",
+    "Searched Title": "The Time Machine",
+    "Year": "2002",
+    "IMDb ID": "tt0268695",
+    "IMDb URL": "https://www.imdb.com/title/tt0268695/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZjRiMTdjNmEtOGJjNy00ZjA1LTlkNzktNzc0NzMxNTY0OGE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Wolfwalkers",
+    "Searched Title": "Wolfwalkers",
+    "Year": "2020",
+    "IMDb ID": "tt5198068",
+    "IMDb URL": "https://www.imdb.com/title/tt5198068/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYzg3MjBkYmYtZjZkZS00YWVkLTk3YjMtNDBlMTVmNDZkZDJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "A Kite",
+    "Searched Title": "A Kite",
+    "Year": "1998",
+    "IMDb ID": "tt0246734",
+    "IMDb URL": "https://www.imdb.com/title/tt0246734/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZTljNjNhZGEtNGI4ZS00NGI5LTk2ZjgtNDg5NDdmNTEzYTNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle",
+    "Searched Title": "Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle",
+    "Year": "2025",
+    "IMDb ID": "tt32820897",
+    "IMDb URL": "https://www.imdb.com/title/tt32820897/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Dum Laga Ke Haisha",
+    "Searched Title": "Dum Laga Ke Haisha",
+    "Year": "2015",
+    "IMDb ID": "tt3495030",
+    "IMDb URL": "https://www.imdb.com/title/tt3495030/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU4NDY2NjgxOV5BMl5BanBnXkFtZTgwMjk2NTYyNTM@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Dumb Money",
+    "Searched Title": "Dumb Money",
+    "Year": "2023",
+    "IMDb ID": "tt13957560",
+    "IMDb URL": "https://www.imdb.com/title/tt13957560/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMGVkOTcyOGEtYzEyMy00OWI4LWE3ZWItZTZkYTIzZmY2MGIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Frankenstein (2025)",
+    "Searched Title": "Frankenstein 2025",
+    "Year": "2025",
+    "IMDb ID": "tt1312221",
+    "IMDb URL": "https://www.imdb.com/title/tt1312221/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Status": "found"
+  },
+  {
+    "Original Title": "Memories (1995)",
+    "Searched Title": "Memories",
+    "Year": "1995",
+    "IMDb ID": "tt0113799",
+    "IMDb URL": "https://www.imdb.com/title/tt0113799/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Original Title": "Nayakan (1987)",
+    "Searched Title": "Nayakan",
+    "Year": "1987",
+    "IMDb ID": "tt0093603",
+    "IMDb URL": "https://www.imdb.com/title/tt0093603/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDgyNDFhMTgtM2Y5YS00MTczLWJmODktNTAzZGIyYWNjYmFjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Original Title": "Perfect Blue (1997)",
+    "Searched Title": "Perfect Blue",
+    "Year": "1997",
+    "IMDb ID": "tt0156887",
+    "IMDb URL": "https://www.imdb.com/title/tt0156887/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Original Title": "Ship of Theseus (2012)",
+    "Searched Title": "Ship of Theseus",
+    "Year": "2012",
+    "IMDb ID": "tt1773764",
+    "IMDb URL": "https://www.imdb.com/title/tt1773764/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_SX300.jpg"
+  },
+  {
+    "Original Title": "Kantara: A Legend - Chapter 1 (2025)",
+    "Searched Title": "Kantara - A Legend Chapter 1",
+    "Year": "2025",
+    "IMDb ID": "tt26439764",
+    "IMDb URL": "https://www.imdb.com/title/tt26439764/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_SX300.jpg"
+  }
+  {
+    "Original Title": "Mahavatar Narsimha (2025)",
+    "Searched Title": "Mahavata Narsimha",
+    "Year": "2025",
+    "IMDb ID": "tt34365591",
+    "IMDb URL": "https://www.imdb.com/title/tt34365591/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTRkODNhYzYtZGRhNi00MTg4LWI5MmYtN2MyZTQ5MjE2YzMyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "Original Title": "Mata (2006)",
+    "Searched Title": "Mata",
+    "Year": "2006",
+    "IMDb ID": "tt3004588",
+    "IMDb URL": "https://www.imdb.com/title/tt3004588/",
+    "Type": "movie",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BOGY4ZGE3ZWMtZTE5NC00YWViLTgwYzItODExYzExZDIxNjc5XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_SX300.jpg"  /* No reliable full-resolution poster link found via Wikipedia/Wikimedia */
+  },
   {
     "Original Title": "Pulp Fiction (1994)",
     "Searched Title": "Pulp Fiction",
